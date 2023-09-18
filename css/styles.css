@@ -1,0 +1,79 @@
+body {
+  font-family: 'roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+body a {
+  text-decoration: none;
+  font-style: normal;
+}
+
+body p {
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+body ul {
+  list-style-type: none;
+}
+
+.header {
+}
+
+.header-logo {
+  font-family: 'raleway', sans-serif;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #2e2f42;
+}
+
+.span-logo {
+  font-family: 'raleway', sans-serif;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #4d5ae5;
+}
+
+.header-menu-item a {
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+
+.header-menu-item:hover a,
+.header-menu-item:focus a {
+  color: #404bbf;
+}
+
+.header-soc-link {
+  font-weight: 400;
+  line-height: 1.5;
+  color: #434455;
+}
+
+.header-soc-link:hover,
+.header-soc-link:focus {
+  color: #404bbf;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+.order-button {
+  cursor: pointer;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
