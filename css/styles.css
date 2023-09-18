@@ -60,8 +60,21 @@ body ul {
 .hero {
   background-color: #2e2f42;
 }
+
+.hero-title {
+  font-weight: 700;
+  line-height: 1.07;
+  color: #ffffff;
+}
 .order-button {
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  background-color: #4d5ae5;
   cursor: pointer;
+}
+.order-button:hover {
+  background-color: #404bbf;
 }
 
 .visually-hidden {
@@ -76,4 +89,51 @@ body ul {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+.approach-item-title {
+  font-weight: 500;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  line-height: 1.11;
+  color: #2e2f42;
+}
+
+.team-item-title {
+  font-weight: 500;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+.portfolio-title {
+  font-weight: 700;
+  line-height: 1.11;
+  color: #2e2f42;
+}
+
+.portfolio-item-title {
+  font-weight: 500;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  font-weight: 700;
+  line-height: 1.16;
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
 }
