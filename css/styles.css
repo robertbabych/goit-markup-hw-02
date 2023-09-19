@@ -23,19 +23,23 @@ body ul {
 }
 
 .header-logo {
-  font-family: 'raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
-  color: #2e2f42;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  text-transform: uppercase;
 }
 
 .span-logo {
-  font-family: 'raleway', sans-serif;
-  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+  color: #2e2f42;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.16;
-  color: #4d5ae5;
+  letter-spacing: 0.03em;
+  text-align: left;
 }
 
 .header-menu-item a {
@@ -141,6 +145,7 @@ body ul {
 }
 
 .footer-logo {
+  font-style: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16;
