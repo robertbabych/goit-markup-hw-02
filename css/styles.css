@@ -2,11 +2,11 @@ body {
   font-family: 'roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
-  font-style: normal;
 }
 
 body a {
   text-decoration: none;
+  font-style: normal;
 }
 
 body p {
