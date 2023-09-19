@@ -35,7 +35,7 @@ body ul {
   text-transform: uppercase;
 }
 
-.span-logo {
+.span-header-logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -164,7 +164,7 @@ body ul {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.span-footer-logo {
   font-style: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -172,7 +172,14 @@ body ul {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-
+.footer-logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
 .footer-text {
   color: #f4f4fd;
   font-size: 16px;
