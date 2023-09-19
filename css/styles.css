@@ -14,8 +14,8 @@ body a {
 body p {
   font-weight: 400;
   font-size: 16px;
-  letter-spacing: 0.02em;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 body ul {
@@ -37,19 +37,19 @@ body ul {
 
 .span-logo {
   font-family: 'Raleway', sans-serif;
-  color: #2e2f42;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16;
   letter-spacing: 0.03em;
   text-align: left;
+  color: #2e2f42;
 }
 
 .header-menu-item a {
   font-weight: 500;
   font-size: 16px;
-  letter-spacing: 0.02em;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -77,16 +77,16 @@ body ul {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  text-align: center;
-  letter-spacing: 0.02em;
   line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
 }
 .order-button {
   font-weight: 500;
   font-size: 16px;
-  letter-spacing: 0.04em;
   line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
@@ -124,28 +124,39 @@ body ul {
 .team-title {
   font-weight: 700;
   font-size: 36px;
+  letter-spacing: 0.02em;
   line-height: 1.11;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
+.team-item {
+  background-color: #ffffff;
+}
 .team-item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
+  letter-spacing: 0.02em;
   line-height: 1.11;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .portfolio-item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -158,6 +169,7 @@ body ul {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 
@@ -165,4 +177,5 @@ body ul {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
